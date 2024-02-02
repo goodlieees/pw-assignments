@@ -1,0 +1,3 @@
+A dynamic site is a type of website that generates content on the server side in response to user requests. Unlike static sites, where the content remains fixed and doesn't change until manually updated, dynamic sites can tailor the information they display based on various factors such as user input, database queries, or real-time data.
+
+In a dynamic site, the server processes requests by executing server-side scripts, often written in languages like PHP, Python, or Ruby. These scripts can interact with databases, external APIs, or other sources of dynamic content. The server then dynamically generates the HTML, CSS, and JavaScript needed for the specific user's request, sending a customized page to the browser.
