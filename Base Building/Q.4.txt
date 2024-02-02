@@ -1,0 +1,3 @@
+A static site is a type of website that delivers its content exactly as it's stored, without any dynamic or real-time processing. In other words, the web pages of a static site remain fixed and don't change unless manually updated. The content is typically written in HTML and can include stylesheets (CSS) and scripts (JavaScript), but these elements don't generate content on the server side.
+
+With a static site, each page is a separate HTML file, and when a user requests a page, the server simply sends that pre-built file to the browser. Since there's no server-side processing involved during the request, static sites tend to be faster and simpler than dynamic sites.
