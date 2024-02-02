@@ -1,0 +1,3 @@
+A web browser is a software application that allows you to access and navigate the Internet. It's the tool you use to view websites, search for information, and interact with online content. Think of it as a gateway to the vast world of the Internet.
+
+When you type a web address (URL) into the browser's address bar or click on a link, the browser retrieves and displays the content of the corresponding webpage. It interprets the code of websites, which is usually written in languages like HTML, CSS, and JavaScript, and presents the information in a user-friendly format.
